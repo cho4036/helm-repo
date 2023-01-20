@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  fluentbit-resource:
+  - apiVersion: v1
+    appVersion: v1.8.3
+    created: "2023-01-20T13:22:15.460789+09:00"
+    description: Provide easy log collecting definition for kubernetes pods and their
+      hosts, and management of fluentbit
+    digest: 8bb318a4a0b3510ceb7f4302ab7f18b9d3cddca4e0fad30ddb9dbed272df621b
+    icon: https://dashboard.snapcraft.io/site_media/appmedia/2020/02/logo-square.png
+    keywords:
+    - fluentbit
+    - custom resouces
+    maintainers:
+    - name: TACO Team
+    - email: usnexp@gmail.com
+      name: sungil
+    name: fluentbit-resource
+    sources:
+    - https://github.com/intelliguy/fluentbit-operator
+    urls:
+    - https://cho4036.github.io/helm-repo/fluentbit-resource-1.2.2-armtest.tgz
+    version: 1.2.2-armtest
+generated: "2023-01-20T13:22:15.458733+09:00"
