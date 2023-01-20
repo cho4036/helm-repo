@@ -3,10 +3,10 @@ entries:
   fluentbit-resource:
   - apiVersion: v1
     appVersion: v1.8.3
-    created: "2023-01-20T13:52:06.940806+09:00"
+    created: "2023-01-20T13:58:40.305385+09:00"
     description: Provide easy log collecting definition for kubernetes pods and their
       hosts, and management of fluentbit
-    digest: 642a69ea7ac0cc649a828030adbaef4e289ed4c2ebcff4cfcf9608ad7f12caf9
+    digest: 04e163ad5708a26543a11529251af5b33ad6f2f363291a1002efe81bd79c9619
     icon: https://dashboard.snapcraft.io/site_media/appmedia/2020/02/logo-square.png
     keywords:
     - fluentbit
@@ -23,10 +23,10 @@ entries:
     version: 1.2.2
   - apiVersion: v1
     appVersion: v1.8.3
-    created: "2023-01-20T13:52:06.939483+09:00"
+    created: "2023-01-20T13:58:40.30008+09:00"
     description: Provide easy log collecting definition for kubernetes pods and their
       hosts, and management of fluentbit
-    digest: 8bb318a4a0b3510ceb7f4302ab7f18b9d3cddca4e0fad30ddb9dbed272df621b
+    digest: 95e1a5adf9c8fabd2e49fc34a4a6c786d2afecba4c10f5d420716d53940a5d4d
     icon: https://dashboard.snapcraft.io/site_media/appmedia/2020/02/logo-square.png
     keywords:
     - fluentbit
@@ -41,4 +41,4 @@ entries:
     urls:
     - https://cho4036.github.io/helm-repo/fluentbit-resource-1.2.2-armtest.tgz
     version: 1.2.2-armtest
-generated: "2023-01-20T13:52:06.938045+09:00"
+generated: "2023-01-20T13:58:40.298519+09:00"
