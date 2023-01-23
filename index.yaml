@@ -3,7 +3,7 @@ entries:
   fluentbit-resource:
   - apiVersion: v1
     appVersion: v1.8.3
-    created: "2023-01-22T17:29:07.352399+09:00"
+    created: "2023-01-23T17:30:39.501072+09:00"
     description: Provide easy log collecting definition for kubernetes pods and their
       hosts, and management of fluentbit
     digest: 7fef8ac33ef3bdc9f0aa6c52d47806fd97fb19bcda200ca8c08c0b23458bd04a
@@ -21,4 +21,27 @@ entries:
     urls:
     - https://cho4036.github.io/helm-repo/fluentbit-resource-1.2.2.tgz
     version: 1.2.2
-generated: "2023-01-22T17:29:07.348865+09:00"
+  minio:
+  - apiVersion: v1
+    appVersion: RELEASE.2022-12-12T19-27-27Z
+    created: "2023-01-23T17:30:39.504851+09:00"
+    description: Multi-Cloud Object Storage
+    digest: dd60949b2a60db0f62a96728fa948837d12c70f6edb28fee8a6a349d5b1eb796
+    home: https://min.io
+    icon: https://min.io/resources/img/logo/MINIO_wordmark.png
+    keywords:
+    - minio
+    - storage
+    - object-storage
+    - s3
+    - cluster
+    maintainers:
+    - email: dev@minio.io
+      name: MinIO, Inc
+    name: minio
+    sources:
+    - https://github.com/minio/minio
+    urls:
+    - https://cho4036.github.io/helm-repo/minio-5.0.4.tgz
+    version: 5.0.4
+generated: "2023-01-23T17:30:39.494921+09:00"
